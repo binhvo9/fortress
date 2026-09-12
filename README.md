@@ -4,6 +4,7 @@ A UX case study: designing a rental-property and net-worth tracking app for New 
 
 ![Cover](behance-assets/cover.png)
 
+**Behance:** https://www.behance.net/gallery/255617275/Fortress-Wealth-Rental-Portfolio-App
 **Full case study:** https://claude.ai/code/artifact/6331ac29-eaf8-49db-9245-8a15ce2e13ec
 **Clickable Figma prototype:** https://www.figma.com/proto/F0gjx0sVWf9PLu9YbHQ5bh/Fortress-%E2%80%94-Wealth--amp--Rental-Portfolio-App?node-id=10-3&p=f&t=HHhOaKQb81p0Ic36-1&scaling=min-zoom&content-scaling=fixed&page-id=21%3A2&starting-point-node-id=10%3A3
 
